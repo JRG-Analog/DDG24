@@ -1,0 +1,1 @@
+# DDG24 DDG24 means Digital Data Generator 2024 Update. This is based on somehtin I did 20 years ago, see this article (TBD). Schematic and PCB in Kicad will be uploaded when finished, as well as a user manual
